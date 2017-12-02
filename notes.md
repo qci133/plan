@@ -6,5 +6,5 @@
 2. Super Resolution 如何工作的？
 
 ## Video of Machine Learning.
-1. ML Lecture 1: Regression - Demo 中改进的梯度下降是什么方法？是不是 AdamGD？为什么效果好了这么多？
+1. ML Lecture 1: Regression - Demo 中改进的梯度下降是什么方法？是不是 Adagrad？为什么效果好了这么多？
 
