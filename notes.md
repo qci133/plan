@@ -12,3 +12,5 @@
 
 3. ML Lecture 11: Deep Learning 为何有效？Bengio [从理论动机上讲了很多 insight](http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/), [物理解释](https://www.youtube.com/watch?v=5MdSE-N0bxs), [化学解释](https://www.youtube.com/watch?v=kibKHIPbxiU)。
 
+4. ML Lecture 13: Unsupervised Learning - Linear Methods 中，1:29:00 开始的矩阵分解需要仔细再学习一遍，与 Latent semantic analysis (LSA) 很有关系。
+
