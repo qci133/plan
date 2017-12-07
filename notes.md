@@ -16,3 +16,9 @@
 
 5. ML Lecture 14: Unsupervised Learning - Word Embedding 中，0:39:00 开始讲到的 Bag of Word 不考虑词序的缺点，后续提到考虑词序的几个优化模型要看一下。
 
+6. ML Lecture 15: Unsupervised Learning - Neighbor Embedding 中, 06:30 的 LLE 没看懂，`w_{ij}` 是否为点之间的距离？
+
+7. ML Lecture 16: Unsupervised Learning - Auto-encoder 的编码器和解码器的 Layer 是否需要对称？此外，在 00:14:20 的 Text Retrieval 中，网络的输入是什么？还是 Bag of word 吗？那岂不是仍然没有语义信息了？此外，收缩自编码器的收缩有什么作用？
+
+8. ML Lecture 17: Unsupervised Learning - Deep Generative Model (Part I) 中的 PixelRNN 如何做？原理是什么？
+
