@@ -22,3 +22,5 @@
 
 8. ML Lecture 17: Unsupervised Learning - Deep Generative Model (Part I) 中的 PixelRNN 如何做？原理是什么？
 
+9. ML Lecture 18: Unsupervised Learning - Deep Generative Model (Part II) 中的 VAE 数学原理（00:28:00）没有看懂。
+
