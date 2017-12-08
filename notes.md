@@ -24,3 +24,6 @@
 
 9. ML Lecture 18: Unsupervised Learning - Deep Generative Model (Part II) 中的 VAE 数学原理（00:28:00）没有看懂。
 
+10. ML Lecture 19: Transfer Learning 中的 Multitask Learning 模型共用部分 Layer，如何写程序？另外，00:57:57 时提到，将动物的 attributes 用 word embedding 方法处理，但是原始的 word embedding 利用了上下文信息才能构建出来，这些动物图片没有上下文信息，如何构建 word embedding? 另外，假设能构建该 word embedding，01:02:00 时的 loss function 用到了 minmax，如和训练？
+
+
