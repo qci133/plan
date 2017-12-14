@@ -14,7 +14,7 @@
 
 4. ML Lecture 13: Unsupervised Learning - Linear Methods 中，1:29:00 开始的矩阵分解需要仔细再学习一遍，与 Latent semantic analysis (LSA) 很有关系。
 
-5. ML Lecture 14: Unsupervised Learning - Word Embedding 中，0:39:00 开始讲到的 Bag of Word 不考虑词序的缺点，后续提到考虑词序的几个优化模型要看一下。
+5. ML Lecture 14: Unsupervised Learning - Word Embedding 中，总体的原理是什么，如何得到分布式的表示的？0:39:00 开始讲到的 Bag of Word 不考虑词序的缺点，后续提到考虑词序的几个优化模型要看一下。
 
 6. ML Lecture 15: Unsupervised Learning - Neighbor Embedding 中, 06:30 的 LLE 没看懂，`w_{ij}` 是否为点之间的距离？
 
