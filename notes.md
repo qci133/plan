@@ -30,3 +30,5 @@
 
 12. ML Lecture 26: Recurrent Neeural Network (Part II) 中，00:28:50 提到的影评的感情色彩判断，如何做样本的标签？是不是要整句话读完才能做反向传播？还是每读一个词就能反向传播一次？
 
+13. ML Lecture 27: Ensemble 中，01:35:48 推导出 Gradient Boosting 与 Adaboost 相同，那么 xgboost 是否也是 Adaboost 的一种实现？
+
